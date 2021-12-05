@@ -1,6 +1,6 @@
 # quick-menu-lite
    
-`updated` : 2016년 6월 10일 
+`updated` : 2016년 6월 10일    
 `status` : [product](https://play.google.com/store/apps/details?id=com.hanstudio.quick.lite)
 
 Register to Quick Menu - Use immediately when you needed.Speed Dial, run apps.  
