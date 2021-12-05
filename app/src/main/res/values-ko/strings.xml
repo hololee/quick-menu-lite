@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">quick</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="list1">메뉴버튼 아이콘 설정</string>
+    <string name="list2">메뉴 어플 설정</string>
+    <string name="list3">설정 어플 아이콘 변경</string>
+    <string name="sub1">빠른실행 버튼의 아이콘을 설정 합니다.</string>
+    <string name="sub2">바로가기를 등록할 어플을 설정합니다.</string>
+    <string name="sub3">등록된 어플의 아이콘을 설정 합니다.</string>
+    <string name="list2_1">기본 이미지</string>
+    <string name="list2_2">사진 가져오기</string>
+    <string name="sub2_1">기본 이미지로 등록합니다.</string>
+    <string name="sub2_2">기기에서 사진을 가져 옵니다.</string>
+    <string name="title2">버튼 이미지 등록</string>
+    <string name="title3">실행 앱 등록</string>
+    <string name="warring">길게 클릭시 앱을 해제할 수 있습니다.</string>
+    <string name="title4">이미지 등록</string>
+    <string name="select_title">앱 선택</string>
+    <string name="select_list1">바로 전화 걸기</string>
+    <string name="select_sub1">전화번호를 등록해 바로 전화할 수 있습니다.</string>
+    <string name="call">전화번호를 입력해 주세요.</string>
+    <string name="ok">확인</string>
+    <string name="warring2">프로 버전에서 이용할 수 있습니다. ^^</string>
+    <string name="event">버튼 이미지 변경 잠금 해제!</string>
+    <string name="event_sub">앱을 공유해보세요~! 메뉴버튼 아이콘 설정 이 잠금 해제 됩니다!</string>
+</resources>

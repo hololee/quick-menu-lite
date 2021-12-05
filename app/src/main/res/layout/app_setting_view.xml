@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#405f70">
+
+        <TextView
+
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/backButton"
+            android:text="@string/title3"
+            android:textColor="#ffffff"
+            android:textSize="25dp" />
+
+
+        <Button
+            android:id="@+id/backButton"
+            android:layout_width="15dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/back_button" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/top"
+        android:background="#e6e6e6">
+
+        <ImageView
+            android:id = "@+id/icon"
+            android:layout_width="270dp"
+            android:layout_height="57dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/item_list"
+            />
+    </RelativeLayout>
+
+    <ListView
+        android:id = "@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/back">
+
+    </ListView>
+
+
+
+    <View
+        android:id = "@+id/lip"
+        android:layout_below="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#d6d6d6"
+
+        />
+
+    <TextView
+        android:layout_below="@+id/lip"
+        android:textSize = "15dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#c96520"
+        android:text = "@string/warring"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+/>
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">quick</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="list1">Select menu icon</string>
+    <string name="list2">Select app</string>
+    <string name="list3">Change selected app Icon</string>
+    <string name="list2_1">Basic image</string>
+    <string name="list2_2">Importing photos</string>
+    <string name="select_list1">Immediately dialing</string>
+    <string name="select_sub1">You can Immediately register your phone number to call.</string>
+    <string name="select_title">Select App</string>
+    <string name="sub1">Set the icon in the Quick Launch button.</string>
+    <string name="sub2">Set the application to register a shortcut.</string>
+    <string name="sub2_1">Register as a base image.</string>
+    <string name="sub2_2">Import photos from your device.</string>
+    <string name="sub3">Set the icon of the registered application.</string>
+    <string name="title2">Button image registration</string>
+    <string name="title3">Register App</string>
+    <string name="title4">Image Register</string>
+    <string name="warring">You can turn off the App when you Long Click.</string>
+    <string name="call">Please enter phone number.</string>
+    <string name="ok">OK</string>
+    <string name="warring2">Can use in Pro Version. :)</string>
+    <string name="event">Unlock chang  button image!</string>
+    <string name="event_sub">Share your apps! change button Image will be unlocked!</string>
+</resources>
